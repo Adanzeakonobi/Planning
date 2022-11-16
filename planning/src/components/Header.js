@@ -1,13 +1,12 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import Button from './Button';
 
 const Header = ({ title }) => {
   return (
     <Header className="header">
       <h1>{title}</h1>
-      <button className='btn'>
-        Add Task
-      </button>
+      <Button />
     </Header>
   );
 }
