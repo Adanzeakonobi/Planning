@@ -17,6 +17,12 @@
       "text": "Go to the market",
       "day": "25th October 2022 by 6:30PM",
       "reminder": false
+    },
+    {
+      "text": "Take a course on AWS",
+      "day": "28th November 2022 by 8AM",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
